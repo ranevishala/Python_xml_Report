@@ -1,0 +1,26 @@
+<goodsList>
+	<goods>
+		<number>9311</number>
+		<categoryId>121</categoryId>
+		<name>Long Tops</name>
+		<price>800</price>
+	</goods>
+	<goods>
+		<number>9312</number>
+		<categoryId>121</categoryId>
+		<name>jeans</name>
+		<price>3000</price>
+	</goods>
+	<goods>
+		<number>9313</number>
+		<categoryId>122</categoryId>
+		<name>Bumetanide</name>
+		<price>600</price>
+	</goods>
+	<goods>
+		<number>9314</number>
+		<categoryId>122</categoryId>
+		<name>Tentex Tablets</name>
+		<price>1500</price>
+	</goods>
+</goodsList>

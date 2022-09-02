@@ -1,0 +1,17 @@
+<cargoList>
+  <cargo>
+    <name>SS Atlantic Causeway</name>
+    <id>121</id>
+    <department>Trinitys Shipping Agencies</department>
+  </cargo>
+  <cargo>
+    <name>Astron</name>
+    <id>122</id>
+    <department>Nidhi DG Packaging </department>
+  </cargo>
+  <cargo>
+    <name>MV Amastra</name>
+    <id>123</id>
+    <department>DGR Goods and Packaging</department>
+  </cargo>
+</cargoList>
